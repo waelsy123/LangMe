@@ -7,9 +7,9 @@ We are you using website Parse.com to store the data in cloud for instense( Post
 If you would like to take a look at the database just send me an email asking for our account's login in parse.com
 
 It take a long time to write this story (which is my first android app), So enjoy it!
-================
-TODO:
 
+TODO:
+================
 ++++> Add some sounds, images, effects which would make the app more interactive.
 
 ++++> Add +1 which help us to make new layout show the top( entries, comments).
