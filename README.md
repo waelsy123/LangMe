@@ -10,11 +10,12 @@ It take a long time to write this story (which is my first android app), So enjo
 
 TODO:
 ================
+for version 2.0 we could: 
 ++++> Add some sounds, images, effects which would make the app more interactive.
 
 ++++> Add +1 which help us to make new layout show the top( entries, comments).
 
-++++> Layout for user's profile.
+++++> Add Layout for user's profile.
 
 =================
 
