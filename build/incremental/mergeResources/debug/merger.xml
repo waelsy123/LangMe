@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/nham/Source/hungry/android/ParseStarterProject/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/nham/Source/hungry/android/ParseStarterProject/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/nham/Source/hungry/android/ParseStarterProject/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/nham/Source/hungry/android/ParseStarterProject/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/nham/Source/hungry/android/ParseStarterProject/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="main"
+                path="/Users/nham/Source/hungry/android/ParseStarterProject/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/nham/Source/hungry/android/ParseStarterProject/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >ParseStarterProject
+                </string>
+                <string name="hello" >Hello World, ParseStarterProjectActivity!
+                </string>
+            </file>
+        </source>
+        <source path="/Users/nham/Source/hungry/android/ParseStarterProject/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/nham/Source/hungry/android/ParseStarterProject/src/debug/res" />
+    </dataSet>
+
+</merger>
