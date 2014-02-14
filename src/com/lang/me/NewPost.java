@@ -107,6 +107,7 @@ public class NewPost extends Activity implements OnItemSelectedListener {
 				goToDash(username) ; 
 			}
 			else {
+				dismissProgressDialog();
 				wael("Your Post's length must be more or equal to 30 letters!");
 			}
 		
